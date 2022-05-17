@@ -1,0 +1,115 @@
+,feature,importance
+13,votoDiploma,0.7360807868669382
+4,iscritto,0.09219483920572528
+11,cfuTake,0.052851394803917935
+5,primaIscr,0.02557481235213111
+9,valoreIntero,0.024451920079730183
+10,cfuPrenotati,0.014471283831714121
+1,annoDiNascita,0.010512436330891954
+2,codCorso,0.01017975497790137
+7,tipoCorso,0.008711289247478587
+12,mediaVoto,0.004528106651250618
+0,annoCorso,0.004441658260410596
+110,tipoIscrizione_IMMATRICOLAZIONE,0.0027423553390664816
+81,facolta_Interfacolta tra FARMACIA E MEDICINA - MEDICINA E ODONTOIATRIA,0.0022160946473264672
+3,flagIdentificato,0.0014119910003590284
+109,tipoIscrizione_FUORI CORSO,0.001286006397656616
+6,sesso,0.0011318692162196596
+68,facolta_ARCHITETTURA,0.000842452992156936
+102,facolta_LETTERE E FILOSOFIA,0.0007897642943885931
+73,facolta_GIURISPRUDENZA,0.000686972802296573
+104,facolta_MEDICINA E PSICOLOGIA,0.000616185896620316
+105,"facolta_SCIENZE MATEMATICHE, FISICHE E NATURALI",0.0005785470316458902
+75,"facolta_INGEGNERIA DELL'INFORMAZIONE, INFORMATICA E STATISTICA",0.0005746505870759685
+74,facolta_INGEGNERIA CIVILE E INDUSTRIALE,0.0004801456554757208
+70,facolta_ECONOMIA,0.00040140205195833903
+111,tipoIscrizione_IN CORSO,0.00039630414745391414
+106,"facolta_SCIENZE POLITICHE, SOCIOLOGIA, COMUNICAZIONE",0.00034969512949595526
+71,facolta_FARMACIA E MEDICINA,0.0003085343601930865
+8,tipoStudente,0.00028018693079436875
+14,cittadinanza_Extra-UE,0.00019003894725596725
+15,cittadinanza_ITA,0.00018754292630621737
+100,"facolta_Interfacolta tra SCIENZE POLITICHE, SOCIOLOGIA, COMUNICAZIONE - LETTERE E FILOSOFIA",0.00014628857367004724
+16,cittadinanza_UE,0.00013109981982830713
+108,facolta_SCUOLA DI INGEGNERIA AEROSPAZIALE,4.5865930905099915e-05
+90,"facolta_Interfacolta tra INGEGNERIA CIVILE E INDUSTRIALE - INGEGNERIA DELL'INFORMAZIONE, INFORMATICA E STATISTICA",4.014760103943203e-05
+76,facolta_Interfacolta tra ARCHITETTURA - INGEGNERIA CIVILE E INDUSTRIALE,3.682030970096506e-05
+88,"facolta_Interfacolta tra GIURISPRUDENZA - INGEGNERIA DELL'INFORMAZIONE, INFORMATICA E STATISTICA - MEDICINA E PSICOLOGIA",3.617519638335091e-05
+98,"facolta_Interfacolta tra SCIENZE MATEMATICHE, FISICHE E NATURALI - MEDICINA E PSICOLOGIA - LETTERE E FILOSOFIA",2.0664170848841623e-05
+112,tipoIscrizione_RIPETENTE,1.7934740845650785e-05
+80,facolta_Interfacolta tra FARMACIA E MEDICINA - LETTERE E FILOSOFIA,1.349198709336348e-05
+82,facolta_Interfacolta tra FARMACIA E MEDICINA - MEDICINA E ODONTOIATRIA - MEDICINA E PSICOLOGIA,9.786231598777907e-06
+45,facolta_ Dipartimento di Medicina molecolare,6.59296975139121e-06
+77,"facolta_Interfacolta tra ARCHITETTURA - INGEGNERIA DELL'INFORMAZIONE, INFORMATICA E STATISTICA",4.861740917970468e-06
+83,facolta_Interfacolta tra FARMACIA E MEDICINA - MEDICINA E PSICOLOGIA,4.506926216492908e-06
+97,"facolta_Interfacolta tra SCIENZE MATEMATICHE, FISICHE E NATURALI - FARMACIA E MEDICINA - MEDICINA E PSICOLOGIA",4.064842723665503e-06
+101,"facolta_Interfacolta tra SCIENZE POLITICHE, SOCIOLOGIA, COMUNICAZIONE - LETTERE E FILOSOFIA - ECONOMIA",2.9267295424924278e-06
+78,"facolta_Interfacolta tra ARCHITETTURA - SCIENZE POLITICHE, SOCIOLOGIA, COMUNICAZIONE",2.7882207247428628e-06
+84,"facolta_Interfacolta tra FARMACIA E MEDICINA - SCIENZE POLITICHE, SOCIOLOGIA, COMUNICAZIONE",2.1788141481919557e-06
+65,facolta_ Dipartimento di Storia Antropologia Religioni Arte Spettacolo,2.118479330557525e-06
+103,facolta_MEDICINA E ODONTOIATRIA,1.5604481861213385e-06
+87,"facolta_Interfacolta tra GIURISPRUDENZA - FARMACIA E MEDICINA - MEDICINA E PSICOLOGIA - SCIENZE POLITICHE, SOCIOLOGIA, COMUNICAZIONE",1.1033047084560542e-06
+28,facolta_ Dipartimento di Fisiologia e farmacologia 'Vittorio Erspamer',0.0
+27,facolta_ Dipartimento di Fisica,0.0
+89,facolta_Interfacolta tra GIURISPRUDENZA - MEDICINA E ODONTOIATRIA,0.0
+86,facolta_Interfacolta tra GIURISPRUDENZA - FARMACIA E MEDICINA - MEDICINA E ODONTOIATRIA - MEDICINA E PSICOLOGIA,0.0
+92,facolta_Interfacolta tra MEDICINA E ODONTOIATRIA - MEDICINA E PSICOLOGIA,0.0
+85,facolta_Interfacolta tra GIURISPRUDENZA - FARMACIA E MEDICINA,0.0
+29,facolta_ Dipartimento di Informatica,0.0
+79,"facolta_Interfacolta tra FARMACIA E MEDICINA - INGEGNERIA CIVILE E INDUSTRIALE - INGEGNERIA DELL'INFORMAZIONE, INFORMATICA E STATISTICA - MEDICINA E ODONTOIATRIA - MEDICINA E PSICOLOGIA",0.0
+91,facolta_Interfacolta tra LETTERE E FILOSOFIA - ECONOMIA,0.0
+38,facolta_ Dipartimento di Istituto italiano di studi orientali (ISO),0.0
+93,"facolta_Interfacolta tra MEDICINA E PSICOLOGIA - SCIENZE POLITICHE, SOCIOLOGIA, COMUNICAZIONE - LETTERE E FILOSOFIA",0.0
+94,"facolta_Interfacolta tra SCIENZE MATEMATICHE, FISICHE E NATURALI - FARMACIA E MEDICINA",0.0
+96,"facolta_Interfacolta tra SCIENZE MATEMATICHE, FISICHE E NATURALI - FARMACIA E MEDICINA - INGEGNERIA DELL'INFORMAZIONE, INFORMATICA E STATISTICA - MEDICINA E ODONTOIATRIA",0.0
+26,facolta_ Dipartimento di Filosofia,0.0
+99,"facolta_Interfacolta tra SCIENZE POLITICHE, SOCIOLOGIA, COMUNICAZIONE - ECONOMIA",0.0
+25,facolta_ Dipartimento di Economia e diritto,0.0
+24,facolta_ Dipartimento di Diritto ed Economia delle Attività produttive,0.0
+23,facolta_ Dipartimento di Diritto dell'economia,0.0
+22,facolta_ Dipartimento di Comunicazione e ricerca sociale,0.0
+21,facolta_ Dipartimento di Chimica e tecnologie del farmaco,0.0
+107,facolta_SCIENZE STATISTICHE,0.0
+20,facolta_ Dipartimento di Chimica,0.0
+19,facolta_ Dipartimento di Biologia e Biotecnologie 'Charles Darwin',0.0
+18,facolta_ Dipartimento di Biologia Ambientale,0.0
+17,facolta_ Dipartimento di Architettura e Progetto,0.0
+95,"facolta_Interfacolta tra SCIENZE MATEMATICHE, FISICHE E NATURALI - FARMACIA E MEDICINA - INGEGNERIA DELL'INFORMAZIONE, INFORMATICA E STATISTICA",0.0
+31,facolta_ Dipartimento di Ingegneria Strutturale e Geotecnica,0.0
+30,"facolta_ Dipartimento di Ingegneria Astronautica, Elettrica ed Energetica",0.0
+39,facolta_ Dipartimento di Lettere e Culture Moderne,0.0
+55,facolta_ Dipartimento di Scienze Chirurgiche,0.0
+54,facolta_ Dipartimento di Scienze Biochimiche 'Alessandro Rossi Fanelli',0.0
+53,facolta_ Dipartimento di Sanità pubblica e malattie infettive,0.0
+52,facolta_ Dipartimento di Psicologia dei Processi di Sviluppo e Socializzazione,0.0
+51,"facolta_ Dipartimento di Psicologia Dinamica, Clinica e Salute",0.0
+50,facolta_ Dipartimento di Psicologia,0.0
+49,"facolta_ Dipartimento di Pianificazione, Design, Tecnologia dell'Architettura",0.0
+48,"facolta_ Dipartimento di Neuroscienze, salute mentale e organi di senso (NESMOS)",0.0
+47,facolta_ Dipartimento di Neuroscienze Umane,0.0
+46,"facolta_ Dipartimento di Metodi e modelli per l'economia, il territorio e la finanza",0.0
+44,facolta_ Dipartimento di Medicina clinica e molecolare,0.0
+43,facolta_ Dipartimento di Medicina Traslazionale e di Precisione,0.0
+42,facolta_ Dipartimento di Medicina Sperimentale,0.0
+41,facolta_ Dipartimento di Matematica,0.0
+40,facolta_ Dipartimento di Management,0.0
+37,facolta_ Dipartimento di Ingegneria meccanica e aerospaziale,0.0
+57,facolta_ Dipartimento di Scienze Politiche,0.0
+58,"facolta_ Dipartimento di Scienze anatomiche, istologiche, medico-legali e dell'apparato locomotore",0.0
+36,"facolta_ Dipartimento di Ingegneria informatica, automatica e gestionale 'Antonio Ruberti'",0.0
+32,"facolta_ Dipartimento di Ingegneria astronautica, elettrica ed energetica ",0.0
+33,"facolta_ Dipartimento di Ingegneria chimica, materiali, ambiente",0.0
+72,"facolta_FILOSOFIA, LETTERE, SCIENZE UMANISTICHE E STUDI ORIENTALI",0.0
+34,"facolta_ Dipartimento di Ingegneria civile, edile e ambientale",0.0
+35,"facolta_ Dipartimento di Ingegneria dell'informazione, elettronica e telecomunicazioni",0.0
+69,"facolta_Dipartimento di
+Ingegneria Astronautica, Elettrica ed Energetica",0.0
+67,"facolta_ Dipartimento di Studi europei, americani e interculturali",0.0
+59,facolta_ Dipartimento di Scienze dell'antichità,0.0
+66,"facolta_ Dipartimento di Storia, disegno e restauro dell'architettura",0.0
+64,facolta_ Dipartimento di Scienze statistiche,0.0
+63,facolta_ Dipartimento di Scienze sociali ed economiche,0.0
+62,facolta_ Dipartimento di Scienze odontostomatologiche e maxillo facciali ,0.0
+61,facolta_ Dipartimento di Scienze di base ed applicate per l'Ingegneria,0.0
+60,facolta_ Dipartimento di Scienze della Terra,0.0
+56,facolta_ Dipartimento di Scienze Giuridiche,0.0
